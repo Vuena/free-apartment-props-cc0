@@ -1,0 +1,30 @@
+MODULAR APARTMENT INTERIOR KIT - FREE SAMPLE (CC0)
+====================================================
+
+Thank you for grabbing this sample! It is 14 ready-to-use models from the full Modular Apartment Interior Kit, free for any project, commercial or not.
+
+WHAT'S INSIDE
+  Living: coffee table, table lamp, small potted plant, round side table, floor lamp, potted cactus
+  Clutter: mug, square cushion, vase with twigs, stack of books, wicker basket
+  Bedroom: nightstand (the drawer is a separate part)
+  Kitchen: dining chair, kettle
+
+FILES
+  GLB/        self-contained (textures embedded), one file per model
+  FBX/        same models as FBX; they read textures from ../../Textures (keep the folder layout)
+  Textures/   12 texture files used by these models
+  Preview/    the cover image
+  LICENSE-FREE-SAMPLE-CC0.txt
+
+NOTES
+  1 unit = 1 metre. Front is -Y in Blender. Pivots are at the bottom centre of each piece.
+  FBX files do not carry the packed roughness/metal maps (a Blender FBX exporter limit); the GLB files have everything.
+  Every model was modelled by code in Blender (Python scripts); no AI-generated meshes or textures. Checked by script, not opened in Unity, Unreal or the Godot editor.
+
+LOVE IT? THERE IS A LOT MORE
+  The full Modular Apartment Interior Kit has 153 assets, GLB + FBX + a Godot 4 project and a demo scene:
+  https://vuena.itch.io/modular-apartment-interior-kit
+  Black Friday sale 27 Nov - 1 Dec: 40% off.
+
+If this sample helped you, a quick rating on the itch page would mean a lot to a small indie studio. Thank you, and happy building!
+  - Popyca
